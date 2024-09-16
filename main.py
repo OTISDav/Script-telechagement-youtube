@@ -1,4 +1,4 @@
-#les insatalation a faire
+#les pip a faire
 #pip install youtube
 #pip install yt_dlp
 
